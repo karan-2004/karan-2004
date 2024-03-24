@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on django projects and I have also contributed some of the websites
+- 🔭 I’m currently working on django projects and I have also contributed for some of the websites
 - 🌱 I’m currently learning ML and datascience 
 - 💬 Ask me about ...
 - 📫 How to reach me: kara80499@gmail.com
